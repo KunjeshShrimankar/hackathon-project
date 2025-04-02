@@ -1,0 +1,12 @@
+[server]
+headless = true
+address = "localhost"  # Change from "0.0.0.0" to "localhost"
+port = 8501  # Change from 5000 to the default port (or any free port)
+
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#F0F2F6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#262730"
+font = "sans serif"

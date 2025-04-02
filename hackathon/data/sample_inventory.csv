@@ -1,0 +1,44 @@
+category,item,quantity,unit,price,value,received_date,expiry_date,days_until_expiry
+Vegetables,Bell Peppers,8,kg,100,800,2025-03-25,2025-04-04,5
+Vegetables,Zucchini,2,kg,70,140,2025-03-26,2025-04-02,3
+Vegetables,Onions,2,kg,40,80,2025-04-02,2025-04-16,17
+Vegetables,Lettuce,2,head,50,100,2025-04-06,2025-04-11,12
+Vegetables,Carrots,6,kg,45,270,2025-03-17,2025-04-07,8
+Vegetables,Eggplant,13,kg,80,1040,2025-03-31,2025-04-07,8
+Vegetables,Tomatoes,9,kg,80,720,2025-04-01,2025-04-08,9
+Vegetables,Potatoes,14,kg,30,420,2025-02-28,2025-03-30,0
+Fruits,Oranges,12,kg,160,1920,2025-03-07,2025-03-21,-9
+Fruits,Strawberries,10,punnet,250,2500,2025-04-05,2025-04-10,11
+Fruits,Lemons,2,kg,120,240,2025-03-09,2025-03-23,-7
+Fruits,Bananas,7,kg,60,420,2025-04-02,2025-04-09,10
+Fruits,Apples,13,kg,160,2080,2025-03-25,2025-04-08,9
+Fruits,Blueberries,2,punnet,300,600,2025-03-29,2025-04-05,6
+Protein,Eggs,6,dozen,120,720,2025-03-04,2025-03-25,-5
+Protein,Beef Steak,7,kg,650,4550,2025-04-15,2025-04-20,21
+Protein,Chicken Breast,6,kg,350,2100,2025-04-06,2025-04-10,11
+Protein,Shrimp,7,kg,600,4200,2025-04-01,2025-04-05,6
+Protein,Ground Beef,9,kg,400,3600,2025-03-30,2025-04-02,3
+Protein,Tofu,14,block,150,2100,2025-04-09,2025-04-19,20
+Protein,Salmon Fillets,15,kg,800,12000,2025-04-20,2025-04-23,24
+Dairy,Butter,7,250g,130,910,2025-03-03,2025-04-02,3
+Dairy,Cheddar Cheese,2,kg,550,1100,2025-02-19,2025-03-21,-9
+Dairy,Cream Cheese,13,250g,180,2340,2025-03-24,2025-04-14,15
+Dairy,Greek Yogurt,11,kg,220,2420,2025-03-07,2025-03-21,-9
+Dairy,Heavy Cream,10,liter,250,2500,2025-03-29,2025-04-12,13
+Dairy,Milk,4,liter,75,300,2025-03-28,2025-04-07,8
+Grains,Pasta,15,kg,120,1800,2024-09-28,2025-03-27,-3
+Grains,Rice,13,kg,85,1105,2024-10-22,2025-04-20,21
+Grains,Flour,12,kg,50,600,2024-10-01,2025-03-30,0
+Grains,Quinoa,11,kg,350,3850,2024-10-04,2025-04-02,3
+Grains,Bread,13,loaf,70,910,2025-03-23,2025-03-30,0
+Herbs & Spices,Cumin,13,kg,720,9360,2024-10-04,2025-04-02,3
+Herbs & Spices,Oregano,11,kg,650,7150,2024-10-21,2025-04-19,20
+Herbs & Spices,Black Pepper,7,kg,800,5600,2024-04-10,2025-04-10,11
+Herbs & Spices,Parsley,15,bunch,50,750,2025-03-25,2025-04-01,2
+Herbs & Spices,Basil,11,bunch,60,660,2025-03-20,2025-03-25,-5
+Herbs & Spices,Cilantro,10,bunch,50,500,2025-03-19,2025-03-24,-6
+Prepared Foods,Hummus,2,container,180,360,2025-04-19,2025-04-26,27
+Prepared Foods,Soup Base,14,liter,240,3360,2025-03-16,2025-04-06,7
+Prepared Foods,Salsa,4,jar,200,800,2025-03-23,2025-04-06,7
+Prepared Foods,Pasta Sauce,10,jar,200,2000,2025-04-08,2025-04-22,23
+Prepared Foods,Chicken Stock,8,liter,160,1280,2025-03-18,2025-04-01,2
